@@ -1,4 +1,7 @@
 # sultan-graph
+
+![Sultan of maldives](sultans.png)
+
 List of sultans of the Maldives In a directed graph.
 
 
