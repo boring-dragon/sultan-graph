@@ -1,4 +1,4 @@
-# sultan-graph
+# Sultan Graph
 
 ![Sultan of maldives](sultans.png)
 
