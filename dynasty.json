@@ -1,0 +1,1085 @@
+{
+  "nodes": [{
+      "id": "Solar dynasty",
+      "group": 1
+    },
+    {
+      "id": "King Soorudasaruna-Adeettiya",
+      "group": 1
+    },
+    {
+      "id": "Queen Damahaar",
+      "group": 1
+    },
+
+
+
+    {
+      "id": "Lunar dynasty",
+      "group": 2
+    },
+    {
+      "id": "King Balaadeettiya",
+      "group": 2
+    },
+    {
+      "id": "King Loakaabarana",
+      "group": 2
+    },
+    {
+      "id": "King Maha Sandura",
+      "group": 2
+    },
+    {
+      "id": "King Bovana Aananda",
+      "group": 2
+    },
+
+
+
+    {
+      "id": "Theemuge dynasty",
+      "group": 3
+    },
+    {
+      "id": "King Mahaabarana Adeettiya",
+      "group": 3
+    },
+    {
+      "id": "King Dhovemi",
+      "group": 3
+    },
+    {
+      "id": "Sultan Muthey",
+      "group": 3
+    },
+    {
+      "id": "Sultan Ali I",
+      "group": 3
+    },
+    {
+      "id": "Sultan Dhinei",
+      "group": 3
+    },
+    {
+      "id": "Sultan Dhihei",
+      "group": 3
+    },
+    {
+      "id": "Sultan Wadi",
+      "group": 3
+    },
+    {
+      "id": "Sultan Valla Dio",
+      "group": 3
+    },
+    {
+      "id": "Sultan Hudhei",
+      "group": 3
+    },
+    {
+      "id": "Sultan Aima",
+      "group": 3
+    },
+    {
+      "id": "Sultan Hali I",
+      "group": 3
+    },
+    {
+      "id": "Sultan Keimi",
+      "group": 3
+    },
+    {
+      "id": "Sultan Audha",
+      "group": 3
+    },
+    {
+      "id": "Sultan Hali II",
+      "group": 3
+    },
+    {
+      "id": "Sultan Yoosuf I",
+      "group": 3
+    },
+    {
+      "id": "Sultan Salis",
+      "group": 3
+    },
+    {
+      "id": "Sultan Davud",
+      "group": 3
+    },
+    {
+      "id": "Sultan Omar I",
+      "group": 3
+    },
+    {
+      "id": "Sultan Ahmed Shihabuddine",
+      "group": 3
+    },
+    {
+      "id": "Sultana Khadijah",
+      "group": 3
+    },
+    {
+      "id": "Sultan Mohamed el-Jameel",
+      "group": 3
+    },
+    {
+      "id": "Sultan Abdullah I",
+      "group": 3
+    },
+    {
+      "id": "Sultana Raadhafathi",
+      "group": 3
+    },
+    {
+      "id": "Sultan Mohamed I",
+      "group": 3
+    },
+    {
+      "id": "Sultana Dhaain",
+      "group": 3
+    },
+    {
+      "id": "Sultan Abdullah II",
+      "group": 3
+    },
+    {
+      "id": "Sultan Osman I",
+      "group": 3
+    },
+
+
+
+
+    {
+      "id": "Hilaalee dynasty",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan I",
+      "group": 4
+    },
+    {
+      "id": "Sultan Ibrahim I",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hussain I",
+      "group": 4
+    },
+    {
+      "id": "Sultan Nasiruddine",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Isa",
+      "group": 4
+    },
+    {
+      "id": "Sultan Osman II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Danna Mohamed",
+      "group": 4
+    },
+    {
+      "id": "Sultan Yoosuf II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Aboobakuru I",
+      "group": 4
+    },
+    {
+      "id": "Sultan Sayyid Mohamed",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hasan III",
+      "group": 4
+    },
+    {
+      "id": "Sultan Mohamed II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan IV",
+      "group": 4
+    },
+    {
+      "id": "Sultan Omar II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan V",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan VI",
+      "group": 4
+    },
+    {
+      "id": "Sultan Ibrahim II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Kalu Mohamed",
+      "group": 4
+    },
+    {
+      "id": "Sultan Yoosuf III",
+      "group": 4
+    },
+    {
+      "id": "Sultan Ali II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan VII",
+      "group": 4
+    },
+    {
+      "id": "Sultan Sharif Ahmed",
+      "group": 4
+    },
+    {
+      "id": "Sultan Ali III",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan VIII",
+      "group": 4
+    },
+    {
+      "id": "Sultan Mohamed III",
+      "group": 4
+    },
+    {
+      "id": "Sultan Hassan IX",
+      "group": 4
+    },
+    {
+      "id": "Sultan Aboobakuru II",
+      "group": 4
+    },
+    {
+      "id": "Sultan Ali IV",
+      "group": 4
+    },
+    {
+      "id": "King Dom Manoel",
+      "group": 4
+    },
+    {
+      "id": "King Dom João",
+      "group": 4
+    },
+    {
+      "id": "King Dom Philippe",
+      "group": 4
+    },
+
+
+    {
+      "id": "Utheemu dynasty",
+      "group": 5
+    },
+    {
+      "id": "Sultan Muhammad Imaduddin I",
+      "group": 5
+    },
+    {
+      "id": "Sultan Ibrahim Iskandar I",
+      "group": 5
+    },
+    {
+      "id": "Sultan Kuda Muhammad",
+      "group": 5
+    },
+    {
+      "id": "Sultan Muhammad Mohyeddine",
+      "group": 5
+    },
+
+    {
+      "id": "Hamawi dynasty",
+      "group": 6
+    },
+    {
+      "id": "Sultan Muhammad Shamsuddeen I",
+      "group": 6
+    },
+
+
+    {
+      "id": "Dhevvadhoo dynasty",
+      "group": 7
+    },
+    {
+      "id": "Sultan Mohamed IV",
+      "group": 7
+    },
+
+
+    {
+      "id": "Isdhoo dynasty",
+      "group": 8
+    },
+
+    {
+      "id": "Sultan Ali V",
+      "group": 8
+    },
+    {
+      "id": "Sultan Hasan X",
+      "group": 8
+    },
+    {
+      "id": "Sultan Ibrahim Mudzhiruddine",
+      "group": 8
+    },
+
+
+    {
+      "id": "Dhiyamigili dynasty",
+      "group": 9
+    },
+
+    {
+      "id": "Sultan Muhammad Imaduddin II",
+      "group": 9
+    },
+    {
+      "id": "Sultan Ibrahim Iskandar II",
+      "group": 9
+    },
+    {
+      "id": "Sultan Muhammad Imaduddin III",
+      "group": 9
+    },
+    {
+      "id": "Sultana Amina I",
+      "group": 9
+    },
+    {
+      "id": "Sultana Amina II",
+      "group": 9
+    },
+    {
+      "id": "Sultan Muhammed Ghiya'as ud-din",
+      "group": 9
+    },
+
+
+    {
+      "id": "Huraa dynasty",
+      "group": 10
+    },
+
+    {
+      "id": "Sultan Hasan 'Izz ud-din",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Shamsuddeen II",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Mu'iz ud-din",
+      "group": 10
+    },
+    {
+      "id": "Sultan Hassan Nooraddeen I",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Mueenuddeen I",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Imaaduddeen IV",
+      "group": 10
+    },
+    {
+      "id": "Sultan Ibrahim Nooraddeen",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Mueenuddeen II",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Imaaduddeen V",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Shamsuddeen III",
+      "group": 10
+    },
+    {
+      "id": "Sultan Muhammad Imaaduddeen VI",
+      "group": 10
+    },
+    {
+      "id": "Sultan Hassan Nooraddeen II",
+      "group": 10
+    },
+    {
+      "id": "Sultan Sir Muhammad Fareed Didi",
+      "group": 10
+    },
+
+
+    {
+      "id": "First Republic of Maldives",
+      "group": 11
+    },
+
+    {
+      "id": "Mohamed Amin Didi",
+      "group": 11
+    },
+    {
+      "id": "Ibrahim Muhammad Didi",
+      "group": 11
+    },
+    {
+      "id": "Muhammad Fareed Didi",
+      "group": 11
+    },
+    {
+      "id": "Ibrahim Nasir",
+      "group": 11
+    },
+    {
+      "id": "Maumoon Abdul Gayoom",
+      "group": 11
+    },
+    {
+      "id": "Mohamed Nasheed",
+      "group": 11
+    },
+    {
+      "id": "Mohammed Waheed Hassan",
+      "group": 11
+    },
+    {
+      "id": "Abdulla Yameen",
+      "group": 11
+    },
+    {
+      "id": "Ibrahim Mohamed Solih",
+      "group": 11
+    }
+
+
+
+
+
+
+
+
+  ],
+  "links": [
+
+    {
+      "source": "King Soorudasaruna-Adeettiya",
+      "target": "Solar dynasty",
+      "value": 1
+    },
+    {
+      "source": "Queen Damahaar",
+      "target": "Solar dynasty",
+      "value": 1
+    },
+
+
+    {
+      "source": "King Balaadeettiya",
+      "target": "Lunar dynasty",
+      "value": 2
+    },
+    {
+      "source": "King Loakaabarana",
+      "target": "Lunar dynasty",
+      "value": 2
+    },
+    {
+      "source": "King Maha Sandura",
+      "target": "Lunar dynasty",
+      "value": 2
+    },
+    {
+      "source": "King Bovana Aananda",
+      "target": "Lunar dynasty",
+      "value": 2
+    },
+
+
+    {
+      "source": "King Mahaabarana Adeettiya",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "King Dhovemi",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Muthey",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Ali I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Dhinei",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Dhihei",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Wadi",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Valla Dio",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Hudhei",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Aima",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Hali I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Keimi",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Audha",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Hali II",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Yoosuf I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Salis",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Davud",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Omar I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Ahmed Shihabuddine",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultana Khadijah",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Mohamed el-Jameel",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Abdullah I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultana Raadhafathi",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Mohamed I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultana Dhaain",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Abdullah II",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+    {
+      "source": "Sultan Osman I",
+      "target": "Theemuge dynasty",
+      "value": 3
+    },
+
+    {
+      "source": "Sultan Hassan I",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Ibrahim I",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hussain I",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Nasiruddine",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Isa",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Osman II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Danna Mohamed",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Yoosuf II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Aboobakuru I",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Sayyid Mohamed",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hasan III",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Mohamed II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan IV",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Omar II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan V",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan VI",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Ibrahim II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Kalu Mohamed",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Yoosuf III",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Ali II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan VII",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Sharif Ahmed",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Ali III",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan VIII",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Mohamed III",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Hassan IX",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Aboobakuru II",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "Sultan Ali IV",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "King Dom Manoel",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "King Dom João",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+    {
+      "source": "King Dom Philippe",
+      "target": "Hilaalee dynasty",
+      "value": 4
+    },
+
+
+    {
+      "source": "Sultan Muhammad Imaduddin I",
+      "target": "Utheemu dynasty",
+      "value": 5
+    },
+    {
+      "source": "Sultan Ibrahim Iskandar I",
+      "target": "Utheemu dynasty",
+      "value": 5
+    },
+    {
+      "source": "Sultan Kuda Muhammad",
+      "target": "Utheemu dynasty",
+      "value": 5
+    },
+    {
+      "source": "Sultan Muhammad Mohyeddine",
+      "target": "Utheemu dynasty",
+      "value": 5
+    },
+
+    {
+      "source": "Sultan Muhammad Shamsuddeen I",
+      "target": "Hamawi dynasty",
+      "value": 6
+    },
+
+
+    {
+      "source": "Sultan Mohamed IV",
+      "target": "Dhevvadhoo dynasty",
+      "value": 7
+    },
+
+    {
+      "source": "Sultan Ali V",
+      "target": "Isdhoo dynasty",
+      "value": 8
+    },
+    {
+      "source": "Sultan Hasan X",
+      "target": "Isdhoo dynasty",
+      "value": 8
+    },
+    {
+      "source": "Sultan Ibrahim Mudzhiruddine",
+      "target": "Isdhoo dynasty",
+      "value": 8
+    },
+
+
+
+
+    {
+      "source": "Sultan Muhammad Imaduddin II",
+      "target": "Dhiyamigili dynasty",
+      "value": 9
+    },
+    {
+      "source": "Sultan Ibrahim Iskandar II",
+      "target": "Dhiyamigili dynasty",
+      "value": 9
+    },
+    {
+      "source": "Sultan Muhammad Imaduddin III",
+      "target": "Dhiyamigili dynasty",
+      "value": 9
+    },
+    {
+      "source": "Sultana Amina I",
+      "target": "Dhiyamigili dynasty",
+      "value": 9
+    },
+    {
+      "source": "Sultana Amina II",
+      "target": "Dhiyamigili dynasty",
+      "value": 9
+    },
+    {
+      "source": "Sultan Muhammed Ghiya'as ud-din",
+      "target": "Dhiyamigili dynasty",
+      "value": 9
+    },
+
+
+
+    {
+      "source": "Sultan Hasan 'Izz ud-din",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Shamsuddeen II",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Mu'iz ud-din",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Hassan Nooraddeen I",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Mueenuddeen I",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Imaaduddeen IV",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Ibrahim Nooraddeen",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Mueenuddeen II",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Imaaduddeen V",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Imaaduddeen VI",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Muhammad Shamsuddeen III",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Hassan Nooraddeen II",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+    {
+      "source": "Sultan Sir Muhammad Fareed Didi",
+      "target": "Huraa dynasty",
+      "value": 10
+    },
+
+
+
+    {
+      "source": "Mohamed Amin Didi",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Ibrahim Muhammad Didi",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Muhammad Fareed Didi",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Ibrahim Nasir",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Maumoon Abdul Gayoom",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Mohamed Nasheed",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Mohammed Waheed Hassan",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Abdulla Yameen",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+    {
+      "source": "Ibrahim Mohamed Solih",
+      "target": "First Republic of Maldives",
+      "value": 11
+    },
+
+
+    {
+      "source": "Solar dynasty",
+      "target": "Lunar dynasty",
+      "value": 1
+    },
+    {
+      "source": "Lunar dynasty",
+      "target": "Theemuge dynasty",
+      "value": 2
+    },
+
+    {
+      "source": "Theemuge dynasty",
+      "target": "Hilaalee dynasty",
+      "value": 3
+    },
+
+    {
+      "source": "Hilaalee dynasty",
+      "target": "Utheemu dynasty",
+      "value": 4
+    },
+    {
+      "source": "Utheemu dynasty",
+      "target": "Hamawi dynasty",
+      "value": 5
+    },
+
+    {
+      "source": "Hamawi dynasty",
+      "target": "Dhevvadhoo dynasty",
+      "value": 6
+    },
+
+    {
+      "source": "Dhevvadhoo dynasty",
+      "target": "Isdhoo dynasty",
+      "value": 7
+    },
+
+    {
+      "source": "Isdhoo dynasty",
+      "target": "Dhiyamigili dynasty",
+      "value": 8
+    },
+
+    {
+      "source": "Dhiyamigili dynasty",
+      "target": "Huraa dynasty",
+      "value": 9
+    },
+
+    {
+      "source": "Huraa dynasty",
+      "target": "First Republic of Maldives",
+      "value": 10
+    }
+
+  ]
+
+}
